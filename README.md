@@ -22,6 +22,7 @@ The necessity for activation functions arises from the inherently nonlinear natu
 
 # 🌀 Visualizing Activation Functions
 ![activation](https://github.com/user-attachments/assets/6d0c9197-7fba-44ab-b2f3-18242d28ec48)
+![ww](https://github.com/user-attachments/assets/b8a68e36-cd81-4539-a738-1679d507f74e)
 
 # 📚 Read More About Activation Functions at: 
 🌐 https://medium.com/@aarafat27/a-comprehensive-guide-to-activation-functions-in-deep-learning-ff794f87c184
